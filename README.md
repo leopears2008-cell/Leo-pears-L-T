@@ -52,7 +52,7 @@
 </p>
 
 <p align="center">
-  Hey! I'm <b>leo pears L T </b>, a passionate <b>Computer Science Engineering student & developer</b> based in India.<br />
+  Hey! I'm <b>leo pears L T </b>, a passionate <b>Infomation Technology & developer</b> based in India.<br />
   I specialize in architecting scalable full-stack web platforms, integrating embedded IoT hardware, and deploying machine learning solutions to solve practical real-world problems.
 </p>
 
