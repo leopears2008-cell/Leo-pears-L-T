@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://instagram.com/techwin.in" target="_blank">
+  <a href="https://instagram.com/leo pearss" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
   </a>
   &nbsp;
@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/Resume-Drive-DC2626?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0a0a0a" alt="Resume" />
   </a>
   &nbsp;
-  <a href="https://github.com/leo pears L T" target="_blank">
+  <a href="https://github.com/leopears2008" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub" />
   </a>
 </p>
