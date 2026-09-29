@@ -59,7 +59,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-🟢_Building_%26_Shipping-111111?style=flat-square" alt="Status" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Degree-B.E._Computer_Science-DC2626?style=flat-square" alt="Degree" />
+  <img src="https://img.shields.io/badge/Degree-B.tech-Infomation Technology-DC2626?style=flat-square" alt="Degree" />
   &nbsp;
   <img src="https://img.shields.io/badge/Focus-Full_Stack_%26_AI-111111?style=flat-square" alt="Focus" />
 </p>
